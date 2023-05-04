@@ -1,0 +1,6 @@
+opentelemetry-sdk
+opentelemetry-exporter-otlp
+opentelemetry-instrumentation
+psutil
+pytest
+behave
